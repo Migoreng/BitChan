@@ -4,7 +4,7 @@ BitChan
 
 Version: 1.1.1
 
-BitChan is a decentralized anonymous imageboard inspired by `BitBoard <https://github.com/michrob/bitboard>`__ and built on top of `Bitmessage <https://bitmessage.org>`__ with `Tor <https://www.torproject.org>`__, `I2P <https://geti2p.net>`__, and `GnuPG <https://gnupg.org>`__.
+BitChan は `BitBoard <https://github.com/michrob/bitboard>`__ にインスパイアされ、`Tor <https://www.torproject.org>`__ 、`I2P <https://geti2p.net>`__ 、`GnuPG <https://gnupg.org>`__ を使って `Bitmessage <https://bitmessage.org>`__ 上に構築された分散型匿名イメージボードです。
 
 Try it out at http://bitchanr4b64govofzjthtu6qc4ytrbuwbgynapkjileajpycioikxad.onion (an anonymous donor has paid for a BitChan instance to be set up on a VPS in `Kiosk Mode <https://github.com/813492291816/BitChan/blob/master/MANUAL.md#kiosk-mode>`__). This is only accessible with `Tor Browser <https://www.torproject.org>`__.
 
